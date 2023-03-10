@@ -1,0 +1,8 @@
+langchain@git+https://github.com/lambda-science/langchain.git
+openai
+streamlit
+streamlit-chat
+ipykernel
+tiktoken
+chromadb
+ipykernel
