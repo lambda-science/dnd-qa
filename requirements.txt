@@ -1,4 +1,4 @@
-langchain@git+https://github.com/lambda-science/langchain.git
+langchain
 openai
 streamlit
 streamlit-chat
