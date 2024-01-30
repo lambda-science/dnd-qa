@@ -1,3 +1,4 @@
+pysqlite3
 langchain
 openai
 streamlit
